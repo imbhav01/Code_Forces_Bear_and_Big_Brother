@@ -1,9 +1,9 @@
 # Code_Forces_Bear_and_Big_Brother
 
-## time limit per test: 1 second
-## memory limit per test: 256 megabytes
-## input: standard input
-## output: standard output
+                                                       ## time limit per test: 1 second
+                                                   ## memory limit per test: 256 megabytes
+                                                           ## input: standard input
+                                                          ## output: standard output
 
 
 Bear Limak wants to become the largest of bears, or at least to become larger than his brother Bob.
